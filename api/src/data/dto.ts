@@ -14,7 +14,7 @@ export const createUserValidator = z.object({
 });
 
 export const updateUserValidator = createUserValidator.partial().extend({
-  id: z.string().uuid(),
+  id: z.string().length(16),
 });
 
 export const loginValidator = z.object({

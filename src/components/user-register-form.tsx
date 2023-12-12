@@ -14,7 +14,7 @@ import { Form, FormField, FormLabel, FormMessage } from './ui/form';
 
 const userRegisterSchema = z
   .object({
-    name: z.string().min(1, 'Name is required'),
+    name: z.string().min(3, { message: 'Your name must be at least 3 characters long.' }).max(20),
     email: z.string().email({ message: 'Please enter a valid email address.' }),
     password: z.string().min(8, { message: 'Your password must be at least 8 characters long.' }),
     confirmPassword: z.string().min(8, { message: 'Your password must be at least 8 characters long.' }),
