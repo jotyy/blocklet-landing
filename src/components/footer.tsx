@@ -14,16 +14,16 @@ export default function Footer() {
             <div className="mb-2">
               <Icons.Logo className="w-16 h-16" />
             </div>
-            <div className="text-sm text-gray-600 dark:text-gray-400">
+            <div className="text-sm text-gray-600 dark:text-gray-300">
               <a
                 href="#0"
-                className="text-gray-600 dark:text-gray-400 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">
+                className="text-gray-600 dark:text-gray-300 dark:hover:text-gray-300 hover:underline transition duration-150 ease-in-out">
                 Terms
               </a>{' '}
               ·{' '}
               <a
                 href="#0"
-                className="text-gray-600 dark:text-gray-400 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">
+                className="text-gray-600 dark:text-gray-300 dark:hover:text-gray-400 hover:underline transition duration-150 ease-in-out">
                 Privacy Policy
               </a>
             </div>
@@ -31,40 +31,40 @@ export default function Footer() {
 
           {/* 2nd block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 dark:text-gray-500 font-medium mb-2">Products</h6>
+            <h6 className="text-gray-800 dark:text-gray-400 font-medium mb-2">Products</h6>
             <ul className="text-sm">
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Web Studio
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   DynamicBox Flex
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Programming Forms
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Integrations
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Command-line
                 </a>
               </li>
@@ -73,40 +73,40 @@ export default function Footer() {
 
           {/* 3rd block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 dark:text-gray-500 font-medium mb-2">Resources</h6>
+            <h6 className="text-gray-800 dark:text-gray-400 font-medium mb-2">Resources</h6>
             <ul className="text-sm">
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Documentation
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Tutorials & Guides
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Blog
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Support Center
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Partners
                 </a>
               </li>
@@ -115,40 +115,40 @@ export default function Footer() {
 
           {/* 4th block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 dark:text-gray-500 font-medium mb-2">Company</h6>
+            <h6 className="text-gray-800 dark:text-gray-400 font-medium mb-2">Company</h6>
             <ul className="text-sm">
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Home
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   About us
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Company values
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Pricing
                 </a>
               </li>
               <li className="mb-2">
                 <a
                   href="#0"
-                  className="text-gray-600 dark:text-gray-400 hover:text-gray-900 transition duration-150 ease-in-out">
+                  className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-gray-400 transition duration-150 ease-in-out">
                   Privacy Policy
                 </a>
               </li>
@@ -157,8 +157,8 @@ export default function Footer() {
 
           {/* 5th block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-3">
-            <h6 className="text-gray-800 dark:text-gray-500 font-medium mb-2">Subscribe</h6>
-            <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">
+            <h6 className="text-gray-800 dark:text-gray-400 font-medium mb-2">Subscribe</h6>
+            <p className="text-sm text-gray-600 dark:text-gray-300 mb-4">
               Get the latest news and articles to your inbox every month.
             </p>
             <form>
@@ -168,7 +168,7 @@ export default function Footer() {
                     <input
                       id="newsletter"
                       type="email"
-                      className="w-full text-gray-800 dark:text-gray-500 px-3 py-2 pr-12 text-sm border border-primary"
+                      className="w-full text-gray-800 dark:text-gray-400 px-3 py-2 pr-12 text-sm border border-primary"
                       placeholder="Your email"
                       required
                     />
@@ -214,7 +214,7 @@ export default function Footer() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 dark:text-gray-400 mr-4">&copy; ArcBlock.io. All rights reserved.</div>
+          <div className="text-sm text-gray-600 dark:text-gray-300 mr-4">&copy; ArcBlock.io. All rights reserved.</div>
         </div>
       </div>
     </footer>
